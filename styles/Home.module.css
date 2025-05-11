@@ -1,0 +1,83 @@
+.container {
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    color: #fff;
+    min-height: 100vh;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .hero {
+    text-align: center;
+    margin-top: 4rem;
+  }
+  
+  .highlight {
+    color: #ff6f61;
+    font-weight: bold;
+  }
+  
+  .subtitle {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+    color: #d1d5db;
+  }
+  
+  .socials a {
+    margin: 0 0.5rem;
+    color: #fff;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+  }
+  
+  .socials a:hover {
+    color: #ff6f61;
+  }
+  
+  .projects {
+    margin-top: 4rem;
+    color:aliceblue
+  }
+  
+  .projectGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+  }
+  
+  .projectCard {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    transition: background 0.3s;
+    cursor: pointer;
+    color: #fff;
+  }
+  
+  .projectCard:hover {
+    background-color: rgba(2, 49, 77, 0.889);
+  }
+
+  .header {
+    padding: 1rem 2rem;
+    background-color: rgba(255, 255, 255, 0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .footer {
+    text-align: center;
+    margin-top: 4rem;
+    padding: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    color: #ccc;
+  }
+  
+  
