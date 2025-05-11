@@ -56,7 +56,9 @@ export default function Home() {
           >
             Hi, I'm <span className={styles.highlight}>Tanish Radhakrishna</span>
           </motion.h1>
-          <p className={styles.subtitle}>Full Stack Developer | React & Next.js Enthusiast</p>
+          <p className={styles.subtitle}>Hi, I'm a passionate and curious tech enthusiast with a focus on building practical, impactful solutions. I enjoy learning new tools, solving real-world problems, and collaborating on meaningful projects.
+
+</p>
           <div className={styles.socials}>
             <a href="https://github.com" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
