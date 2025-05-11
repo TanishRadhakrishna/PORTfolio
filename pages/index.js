@@ -60,9 +60,9 @@ export default function Home() {
 
 </p>
           <div className={styles.socials}>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
-            <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"><FaTwitter /></a>
+            <a href="https://github.com/TanishRadhakrishna" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+            <a href="https://www.linkedin.com/in/tanish-radhakrishna-65863226a/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+            <a href="https://x.com/R7Tanish" target="_blank" rel="noopener noreferrer"><FaTwitter /></a>
           </div>
         </section>
 
