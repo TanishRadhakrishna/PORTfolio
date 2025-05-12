@@ -6,6 +6,7 @@ import styles from '@/styles/Home.module.css';
 import ProjectCard from '@/components/ProjectCard';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import { Analytics } from "@vercel/analytics/next"
 
 const projects = [
   {
